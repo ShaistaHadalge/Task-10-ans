@@ -1,0 +1,10 @@
+C:\Windows\System32>pip --version
+pip 23.3.1 from C:\Program Files\Python312\Lib\site-packages\pip (python 3.12)
+
+C:\Windows\System32>flask --version
+Python 3.12.0
+Flask 3.0.0
+Werkzeug 3.0.1
+
+C:\Windows\System32>python --version
+Python 3.12.0
